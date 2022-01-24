@@ -25,6 +25,11 @@ h6 {
 	margin: 0;
 }
 
+a,
+a:visited {
+	color: #49a4ff;
+}
+
 @font-face {
 	font-family: 'Inter';
 	src: url('/fonts/inter.otf');

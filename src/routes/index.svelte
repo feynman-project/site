@@ -5,6 +5,8 @@
 <main>
 	<div class="left">
 		<Logo />
+		<br />
+		<p>&copy; 2022 <a href="https://mattglei.ch">Matt Gleich</a></p>
 	</div>
 	<div class="right">
 		<h1>Feynman Project</h1>
@@ -34,6 +36,9 @@
 
 	.left {
 		padding-right: 30px;
+		display: flex;
+		flex-direction: column;
+		align-items: flex-end;
 	}
 
 	h1 {
