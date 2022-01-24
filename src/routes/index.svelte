@@ -15,6 +15,13 @@
 			natural understanding of physics. This project aims to create physics teaching material to give
 			students a deeper understanding of physics at the high school level.
 		</p>
+		<h2>Circuits</h2>
+		<p>
+			Custom made PCBs to help students understand voltage, current, and resistance all a number of
+			difference circuits. Check out the <a href="https://github.com/feynman-project/circuits"
+				>github repository</a
+			> to learn more.
+		</p>
 	</div>
 </main>
 
