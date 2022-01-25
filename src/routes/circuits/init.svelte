@@ -66,7 +66,7 @@
 	main {
 		margin-bottom: 50px;
 		width: 50vw;
-		margin-top: 500px;
+		margin-top: 900px;
 		margin-left: 0;
 		margin-right: 0;
 	}
