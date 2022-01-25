@@ -2,11 +2,15 @@
 	import Logo from '../components/Logo.svelte';
 </script>
 
+<svelte:head>
+	<title>Feynman Project</title>
+</svelte:head>
+
 <main>
 	<div class="left">
 		<Logo />
 		<br />
-		<p>&copy; 2022 <a href="https://mattglei.ch">Matt Gleich</a></p>
+		<p>&copy; {new Date().getFullYear()} <a href="https://mattglei.ch">Matt Gleich</a></p>
 	</div>
 	<div class="right">
 		<h1>Feynman Project</h1>
@@ -31,7 +35,6 @@
 	main {
 		display: flex;
 		flex-wrap: wrap;
-		margin: 0 20px;
 	}
 
 	.left {
