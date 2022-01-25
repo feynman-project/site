@@ -29,7 +29,7 @@
 
 	<h2>UC (User Circuit)</h2>
 	<p>
-		Basic circuit that has sockets for placing resistors and capacitors in the circuit to see how
+		A basic circuit that has sockets for placing resistors and capacitors in the circuit to see how
 		they affect the current and voltage drops. This system contains at least one set of power supply
 		ports and two sockets for attaching through hole components (e.g. resistors, capacitors, and
 		LEDs).
