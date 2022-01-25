@@ -23,9 +23,9 @@
 		</p>
 		<h2>Circuits</h2>
 		<p>
-			Custom made PCBs to help students understand voltage, current, and resistance all a number of
-			difference circuits. Check out the <a href="https://github.com/feynman-project/circuits"
-				>github repository</a
+			Custom made PCBs to help students understand voltage, current, and resistance all in a number
+			of different circuits types (e.g. series, parallel, RC). Check out the <a
+				href="https://github.com/feynman-project/circuits">github repository</a
 			> to learn more.
 		</p>
 	</div>
