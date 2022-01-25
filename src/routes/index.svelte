@@ -4,6 +4,10 @@
 
 <svelte:head>
 	<title>Feynman Project</title>
+	<meta name="description" content="Transformative tools for teaching physics" />
+	<meta property="og:title" content="Feynman Project" />
+	<meta property="og:description" content="Transformative tools for teaching physics" />
+	<meta property="og:image" content="/og-image.png" />
 </svelte:head>
 
 <main>
