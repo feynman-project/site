@@ -30,8 +30,11 @@
 			Custom made PCBs to help students understand voltage, current, and resistance all in a number
 			of different circuits types (e.g. series, parallel, RC). Check out the <a
 				href="https://github.com/feynman-project/circuits">github repository</a
-			> to learn more.
+			> to follow the development. Here are the development logs:
 		</p>
+		<ol>
+			<li><a href="/circuits/init">Initial Plan</a> -> January 25<sup>th</sup>, 2022</li>
+		</ol>
 	</div>
 </main>
 
@@ -39,6 +42,7 @@
 	main {
 		display: flex;
 		flex-wrap: wrap;
+		margin: 0 20px;
 	}
 
 	.left {
@@ -54,5 +58,17 @@
 
 	p {
 		max-width: 600px;
+	}
+
+	ol {
+		list-style-type: upper-roman;
+	}
+
+	@media screen and (max-width: 793px) {
+		.left {
+			padding-left: 10px;
+			flex-direction: row;
+			gap: 20px;
+		}
 	}
 </style>
