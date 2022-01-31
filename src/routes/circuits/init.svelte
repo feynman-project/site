@@ -65,10 +65,10 @@
 <style>
 	main {
 		margin-bottom: 50px;
-		width: 50vw;
-		margin-top: 900px;
-		margin-left: 0;
-		margin-right: 0;
+		margin-top: 30vh;
+		margin-left: 20px;
+		margin-right: 20px;
+		max-width: 1000px;
 	}
 
 	img {

@@ -43,6 +43,7 @@
 		display: flex;
 		flex-wrap: wrap;
 		margin: 0 20px;
+		margin-top: 30vh;
 	}
 
 	.left {
@@ -65,6 +66,10 @@
 	}
 
 	@media screen and (max-width: 793px) {
+		main {
+			margin-top: 20vh;
+		}
+
 		.left {
 			padding-left: 10px;
 			flex-direction: row;
