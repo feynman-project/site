@@ -1,7 +1,8 @@
-<main>
-	<h1>Initial Plan</h1>
-	<p>Matt Gleich -> 01/25/2022</p>
+<script>
+	import Log from '../../components/Log.svelte';
+</script>
 
+<Log name="Initial Plan" date={new Date(2022, 1, 25)}>
 	<h2>Elevator Pitch</h2>
 	<p>
 		Help students learn about the relationship between resistance, current, voltage, and
@@ -60,18 +61,4 @@
 			be very cheap (~$10) for 4 boards.
 		</li>
 	</ul>
-</main>
-
-<style>
-	main {
-		margin-bottom: 50px;
-		margin-top: 30vh;
-		margin-left: 20px;
-		margin-right: 20px;
-		max-width: 1000px;
-	}
-
-	img {
-		width: 100%;
-	}
-</style>
+</Log>
