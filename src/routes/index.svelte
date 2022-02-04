@@ -7,7 +7,6 @@
 	<meta name="description" content="Transformative tools for teaching physics" />
 	<meta property="og:title" content="Feynman Project" />
 	<meta property="og:description" content="Transformative tools for teaching physics" />
-	<meta property="og:image" content="/og-image.png" />
 </svelte:head>
 
 <main>
@@ -33,7 +32,7 @@
 			> to follow the development. Here are the development logs:
 		</p>
 		<ol>
-			<li><a href="/circuits/init">Initial Plan</a> -> January 25<sup>th</sup>, 2022</li>
+			<li><a href="/logs/circuits/init">Initial Plan</a> -> January 25<sup>th</sup>, 2022</li>
 		</ol>
 	</div>
 </main>
