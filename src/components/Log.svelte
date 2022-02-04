@@ -20,7 +20,12 @@
 		margin-top: 30vh;
 		margin-left: 20px;
 		margin-right: 20px;
-		width: 1000px;
 		max-width: 1000px;
+	}
+
+	@media screen and (max-width: 793px) {
+		main {
+			margin-top: 15vh;
+		}
 	}
 </style>
