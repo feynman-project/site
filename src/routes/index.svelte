@@ -33,6 +33,7 @@
 		</p>
 		<ol>
 			<li><a href="/logs/circuits/init">Initial Plan</a> -> January 25<sup>th</sup>, 2022</li>
+			<li><a href="/logs/circuits/01">Update #1</a> -> February 18<sup>th</sup>, 2022</li>
 		</ol>
 	</div>
 </main>
